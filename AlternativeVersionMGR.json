@@ -5,26 +5,6 @@
             "name" : "scripts",
             "url" : "",
             "md5" : ""
-        },
-        {
-            "name" : "mod_assets",
-            "url" : "",
-            "md5" : ""
-        },
-        {
-            "name" : "gui",
-            "url" : ""
-            "md5" : ""
-        },
-        {
-            "name" : "placeholder",
-            "url" : "",
-            "md5" : ""
-        },
-        {
-            "name" : "placeholder",
-            "url" : "",
-            "md5" : ""
         }
     ]
 }
