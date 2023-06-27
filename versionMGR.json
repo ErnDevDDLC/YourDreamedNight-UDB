@@ -1,3 +1,15 @@
 {
-    "global_ver" : "0.0.4"
+    "global_ver" : "0.0.4",
+
+    "Update_Type" : "Minimum",
+
+    "gui.rpa" : "NotUpdate",
+
+    "scripts.rpa" : "NotUpdate",
+
+    "mod_data.rpa" : "NotUpdate",
+
+    "submods.rpa" : "NotUpdate",
+
+    "Update" : "NotReady"
 }
