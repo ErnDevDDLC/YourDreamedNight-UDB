@@ -3,7 +3,7 @@
 
     "Update_Type" : "Major",
 
-    "gui.rpa" : "NotUpdate",
+    "gui.rpa" : "Update",
 
     "scripts.rpa" : "NotUpdate",
 
