@@ -3,13 +3,13 @@
 
     "Update_Type" : "Major",
 
-    "gui.rpa" : "Update",
+    "gui.rpa" : "NotUpdate",
 
     "scripts.rpa" : "NotUpdate",
 
-    "mod_data.rpa" : "Update",
+    "mod_data.rpa" : "NotUpdate",
 
     "submods.rpa" : "NotUpdate",
 
-    "Update" : "StartDeploy"
+    "Update" : "NotReady"
 }
