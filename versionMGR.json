@@ -1,5 +1,5 @@
 {
-    "global_ver" : "0.0.5",
+    "global_ver" : "0.0.4",
 
     "Update_Type" : "Major",
 
@@ -11,5 +11,5 @@
 
     "submods.rpa" : "NotUpdate",
 
-    "Update" : "StartDeploy"
+    "Update" : "NotReady"
 }
