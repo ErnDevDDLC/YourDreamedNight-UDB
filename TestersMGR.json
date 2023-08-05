@@ -1,0 +1,12 @@
+{
+    "JesusGRT" : "MidAccess",
+
+    "Gerielis" : "HighAccess",
+
+    "AlexDI" : "FullAccess",
+
+    "ProyectNight" : "WriterAccess",
+
+    "ProyectCoffe" : "MidAccess",
+
+}
