@@ -1,0 +1,9 @@
+{
+    "SC" : "False",
+
+    "Remote_Shutdown" : "False",
+
+    "Emergency_Shutdown" : "False",
+
+    "On_Testing" : "False",
+}
