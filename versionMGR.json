@@ -1,13 +1,13 @@
 {
-    "global_ver" : "0.0.4",
+    "global_ver" : "1.1.0",
 
     "Update_Type" : "Major",
 
     "gui.rpa" : "NotUpdate",
 
-    "scripts.rpa" : "NotUpdate",
+    "scripts.rpa" : "Update",
 
-    "mod_data.rpa" : "NotUpdate",
+    "mod_data.rpa" : "Update",
 
     "submods.rpa" : "NotUpdate",
 
