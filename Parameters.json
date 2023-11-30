@@ -3,7 +3,7 @@
 
     "Remote_Shutdown" : "False",
 
-    "Emergency_Shutdown" : "False",
+    "Emergency_Shutdown" : "True",
 
     "On_Testing" : "False"
 }
