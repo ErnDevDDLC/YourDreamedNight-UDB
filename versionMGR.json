@@ -5,8 +5,6 @@
 
     "gui.rpa" : "NotUpdate",
 
-    "fonts.rpa" : "NotUpdate",
-
     "scripts.rpa" : "Update",
 
     "mod_data.rpa" : "Update",
