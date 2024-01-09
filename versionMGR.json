@@ -1,13 +1,15 @@
 {
     "global_ver" : "0.0.5",
 
-    "Update_Type" : "Major",
+    "Update_Type" : "Minimum",
 
     "gui.rpa" : "NotUpdate",
 
-    "scripts.rpa" : "Update",
+    "scripts.rpa" : "NotUpdate",
 
-    "mod_data.rpa" : "Update",
+    "options.rpy" : "Update",
+
+    "mod_data.rpa" : "NotUpdate",
 
     "submods.rpa" : "NotUpdate",
 
