@@ -15,5 +15,5 @@
 
     "submods.rpa" : "NotUpdate",
 
-    "Update" : "StartDeploy"
+    "Update" : "NotReady"
 }
