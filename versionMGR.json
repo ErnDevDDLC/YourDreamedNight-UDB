@@ -5,6 +5,8 @@
 
     "gui.rpa" : "NotUpdate",
 
+    "fonts.rpa" : "NotUpdate",
+    
     "scripts.rpa" : "NotUpdate",
 
     "options.rpy" : "Update",
