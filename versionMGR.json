@@ -1,3 +1,5 @@
 {
-    "modver" : "0.0.1"
+    "modver" : "0.0.1",
+
+    "ready" : "True",
 }
