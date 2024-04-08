@@ -1,7 +1,7 @@
 {
-    "Ver" : "0.0.2",
+    "Ver" : "0.0.3",
 
-    "Deploy" : "True",
+    "Deploy" : "False",
 
     "About" : "Placeholder"
 }
