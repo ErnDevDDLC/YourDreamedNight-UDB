@@ -3,5 +3,7 @@
 
     "Deploy" : "True",
 
-    "About" : "AboutVer placeholder"
+    "About" : "This update (0.0.3) contains: placeholder AboutVer",
+
+    "Priority" : "ffka"
 }
