@@ -5,5 +5,9 @@
 
     "About" : "This update (0.0.3) contains: placeholder AboutVer",
 
-    "Priority" : "None"
+    "Priority" : "None",
+
+    "MidAbout" : "placeholder MidAbout",
+
+    "HighAbout" : "placeholder HighAbout"
 }
