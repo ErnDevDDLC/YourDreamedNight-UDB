@@ -1,11 +1,11 @@
 {
-    "Ver" : "0.0.3",
+    "Ver" : "0.0.2",
 
     "Deploy" : "True",
 
-    "About" : "This update (0.0.3) contains: placeholder AboutVer",
+    "About" : "This update (Updated) contains: placeholder AboutVer",
 
-    "Priority" : "Important",
+    "Priority" : "Low",
 
     "MidAbout" : "placeholder MidAbout",
 
